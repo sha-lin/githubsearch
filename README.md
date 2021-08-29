@@ -1,27 +1,37 @@
-# GITSEARCH
+# Git-Search App Project
+#### This is a Git-Search App, 29/08/2021
+#### By **SHALIN RONO**
+## Description
+This is a git hub search engine that enables a user to see first my profile and be able to search for other github users and be able to see their repositories and number of followers and following and be able to see the whole profile of that person.
+## Setup/Installation Requirements
+* Have a browser(Google Chrome)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
+* Have visual Studio Code
 
-## Development server
+* Search using the form at the top
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* If you want to clone this project, got to this link. Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Known Bugs
+There are no known bugs at the moment.
+## Technologies Used
+Angular CLI
 
-## Build
+TypeScript
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+HTML 5
 
-## Running unit tests
+CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Support and contact details
+In case of any issues or questions, feel free to contact me using: 
 
-## Running end-to-end tests
+E-MAIL ADDRESS: ronoshalin@gmail.com
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+PHONE:+254701338496
+### **License**
+https://choosealicense.com/licenses/mit/#
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# **Copyright**
+Copyright (c) {2021} **SHALIN RONO**
