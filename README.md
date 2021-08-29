@@ -10,7 +10,7 @@ This is a git hub search engine that enables a user to see first my profile and 
 
 * Search using the form at the top
 
-* If you want to clone this project, got to this link. Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
+* If you want to clone this project, got to this link  https://hardcore-albattani-e886d0.netlify.app/. Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
 
 
 ## Known Bugs
