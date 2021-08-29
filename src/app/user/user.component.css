@@ -2,8 +2,8 @@ img{
     height: 236px;
     width: 304px;
 }
- a { text-decoration: none; color: rgb(90,165,251);} 
+ a { text-decoration: none; color: rgb(251, 90, 216);} 
 
 a:hover{
-    color: blue;
+    color: rgb(255, 187, 0);
   }
